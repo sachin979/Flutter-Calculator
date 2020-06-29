@@ -1,6 +1,6 @@
 # calculatorapp
 
-A new Flutter project.
+A Calculator App made using flutter. 
 
 ## Getting Started
 
